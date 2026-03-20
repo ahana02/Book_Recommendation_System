@@ -1,4 +1,4 @@
-# 📚 Book Recommendation System
+# Book Recommendation System
 
 A machine learning project that builds a **Book Recommendation System** using:
 
@@ -107,9 +107,12 @@ python src/collaborative_filtering.py
 ```
 streamlit run app/streamlit_app.py
 ```
-##  Screenshots
+## Screenshots
 
 <p align="center">
-  <img src="assets/home.png" width="45%">
-  <img src="assets/recommendation.png" width="45%">
+  <img src="assets/home.png" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/recommendation.png" width="700">
 </p>
