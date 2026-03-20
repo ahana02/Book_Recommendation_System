@@ -8,7 +8,7 @@ A machine learning project that builds a **Book Recommendation System** using:
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project recommends books to users based on:
 
@@ -22,11 +22,11 @@ This project recommends books to users based on:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 Dataset used:
 
-👉 Books Dataset from Kaggle  
+Books Dataset from Kaggle  
 https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 
 ### Data Files
@@ -43,7 +43,7 @@ https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 ---
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 book-recommendation-system
@@ -107,3 +107,9 @@ python src/collaborative_filtering.py
 ```
 streamlit run app/streamlit_app.py
 ```
+##  Screenshots
+
+<p align="center">
+  <img src="assets/home.png" width="45%">
+  <img src="assets/recommendation.png" width="45%">
+</p>
